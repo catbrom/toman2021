@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toman2021
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
